@@ -1,8 +1,8 @@
 <p align="center">
+  # Hey there, I'm Youssef Rifai 👋
   <img src="./UCEFDEV.gif" alt="UCEFDEV"  />
+  ![Profile views](https://komarev.com/ghpvc/?username=ucefdev1&color=blue)
 </p>
-
-# Hey there, I'm Youssef Rifai 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=ucefdev1&color=blue)
 

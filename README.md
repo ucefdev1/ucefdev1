@@ -15,7 +15,7 @@ I am a Full Stack Developer 🧑‍💻 from Morocco 🇲🇦.
 - 🧠 Always interested in improving my skills in **Laravel**, **PHP**, **JavaScript**, and more.
 - 👯 I’m looking to collaborate on **open source projects** that make a positive impact.
 - 💬 Ask me about **Laravel**, **React.js**, **Laravel**, or **Tailwind CSS**.
-- 📫 How to reach me: [Gmail](mailto:youremail@gmail.com) or [LinkedIn](https://linkedin.com/in/ucefdev).
+- 📫 How to reach me: [Gmail](mailto:ucefstuff@gmail.com) or [LinkedIn](https://linkedin.com/in/ucefdev).
   
 ## Languages and Tools:
 

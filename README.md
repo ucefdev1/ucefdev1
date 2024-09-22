@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./UCEFDEV.gif" alt="UCEFDEV" width="150" />
+  <img src="./UCEFDEV.gif" alt="UCEFDEV"  />
 </p>
 
 # Hey there, I'm Youssef Rifai 👋

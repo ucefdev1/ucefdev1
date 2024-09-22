@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.giphy.com/ZVik7pBtu9dNS.webp" alt="UCEFDEV" width="150" />
+</p>
+
 # Hey there, I'm Youssef Rifai 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=ucefdev1&color=blue)

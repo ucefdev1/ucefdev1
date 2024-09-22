@@ -1,10 +1,7 @@
+# Hey there, I'm Youssef Rifai 👋
 <p align="center">
-  # Hey there, I'm Youssef Rifai 👋
   <img src="./UCEFDEV.gif" alt="UCEFDEV"  />
-  ![Profile views](https://komarev.com/ghpvc/?username=ucefdev1&color=blue)
 </p>
-
-![Profile views](https://komarev.com/ghpvc/?username=ucefdev1&color=blue)
 
 ## About Me:
 
@@ -19,6 +16,8 @@ I am a Full Stack Developer 🧑‍💻 from Morocco 🇲🇦.
   
 ## Languages and Tools:
 
+<div align="center">
+  
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
@@ -30,10 +29,16 @@ I am a Full Stack Developer 🧑‍💻 from Morocco 🇲🇦.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-violet?style=for-the-badge&logo=bootstrap)
 ![Vite](https://img.shields.io/badge/Vite-lightblue?style=for-the-badge&logo=vite)
 
+</div>
+
 ## My Stats:
 
+<div align="center">
+
 ![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ucefdev1&show_icons=true&theme=radical)
+<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ucefdev1&layout=compact&theme=radical)
+</div>
 
 ## Projects:
 
@@ -43,7 +48,11 @@ I am a Full Stack Developer 🧑‍💻 from Morocco 🇲🇦.
 
 ## How to reach me:
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ucefdev)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://instagram.com/_oucef)
+
+</div>
 
 Feel free to check out my repositories and contribute if you'd like!
